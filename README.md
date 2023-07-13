@@ -1,7 +1,7 @@
 # writing-guis-properly.observations
 .. it seems since nobody understands this I will have to note some things down
 
-#### pre notes
+### pre notes
 
 1) UI Thread & Main Process
 
@@ -12,6 +12,14 @@
 4) Understanding OpenGL is not going to solve your problems
 
 5) Cross-platform When and When Not ( OSX First compilation is fraught with problems on other platforms )
+
+#### constraints - os internals - security and saturation
+
+Factors that effect **scale**, **complexity** 
+
+1) dynamic link libraries
+2) so
+3) osx
 
 ### CONCEPTS
 
