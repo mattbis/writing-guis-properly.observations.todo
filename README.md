@@ -1,4 +1,7 @@
 # writing-guis-properly.observations
+
+## local to a topic space and scenario - please ignore - not meant as a generalised guide....
+
 .. it seems since nobody understands this I will have to note some things down
 
 ### pre notes
@@ -14,6 +17,10 @@
 5) Cross-platform When and When Not ( OSX First compilation is fraught with problems on other platforms )
 
 #### constraints - os internals - security and saturation
+
+define Saturation - when there are so many gui updates and messages - the operating system will prioritise messages. ( effectively your instances stop working when trying to click a change ( a bundle of messages ) and when receiving updates )
+
+define Migitation - see my previous gists, there is no remediation since it increases the stack size and slooooooooows everything down. ( its only possible beyond 64gig and i9 - sofaik )
 
 Factors that effect **scale**, **complexity** 
 
