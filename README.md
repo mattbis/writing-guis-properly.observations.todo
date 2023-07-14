@@ -32,7 +32,8 @@ Factors that effect **scale**, **complexity**
 
 ### CONCEPTS
 
-1) - Point1 is simple **MOST PEOPLE ARE POOR** they do not have the latest and greatest - in fact they are likely 2-6 years behind hardware wise... 
+1) - Point1 is simple **MOST PEOPLE ARE POOR** they do not have the latest and greatest - in fact they are likely 2-8 years behind hardware wise...
+   - Point2 is always offer a non-gui option from a `manifest`
 
 #### RUNTIME MODES
 
