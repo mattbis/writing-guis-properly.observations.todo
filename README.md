@@ -40,5 +40,3 @@ Factors that effect **scale**, **complexity**
 #### RUNTIME MODES
 
 1) What are modes? How many should we have ? See ( user research )
-2) Before releasing your product and assets ( make sure you really understand your market, your consumers, the tech stack and you hire REALLY GOOD TESTERS )
-
