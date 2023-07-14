@@ -18,6 +18,8 @@
 
 6) the importance of `no-gui` or `minimal-gui` see: mitigations.
 
+7) its not actually that complicated you dont need a framework for everything.. there are many examples,
+
 #### constraints - os internals - security and saturation
 
 define Saturation - when there are so many gui updates and messages - the operating system will prioritise messages. ( effectively your instances stop working when trying to click a change ( a bundle of messages ) and when receiving updates )
