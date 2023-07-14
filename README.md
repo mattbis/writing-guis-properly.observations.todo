@@ -18,7 +18,7 @@
 
 6) the importance of `no-gui` or `minimal-gui` see: mitigations.
 
-7) its not actually that complicated you dont need a framework for everything.. there are many examples,
+7) its not actually that complicated you dont need a framework for everything.. there are many examples, THEY ALL SUFFER THE SAME PROBLEM
 
 #### constraints - os internals - security and saturation
 
