@@ -22,7 +22,7 @@
 
 define Saturation - when there are so many gui updates and messages - the operating system will prioritise messages. ( effectively your instances stop working when trying to click a change ( a bundle of messages ) and when receiving updates )
 
-define Migitation - see my previous gists, there is no remediation since it increases the stack size and slooooooooows everything down. ( its only possible beyond 64gig and i9 - sofaik )
+define Migitation - see my previous gists, there is no remediation since it increases the stack size and causes delays per update refresh  everything down. ( its only possible beyond 64gig and i9 - sofaik )
 
 Factors that effect **scale**, **complexity** 
 
